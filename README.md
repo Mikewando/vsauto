@@ -2,6 +2,12 @@
 
 `vsauto` uses [pluggy](https://github.com/pytest-dev/pluggy) to provide potentially convenient loading of [vapoursynth](https://github.com/vapoursynth/vapoursynth) plugins distributed as part of python packages.
 
+## Installation
+
+```sh
+python -m pip install vsauto
+```
+
 ## Basic usage
 
 If you are writing a script and simply wish to load installed plugins you can do so trivially.
