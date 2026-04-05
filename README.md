@@ -1,3 +1,6 @@
+> [!IMPORTANT]
+> VapourSynth R74 now supports autoloading plugins from a python-environment owned directory which solves most of the same problems as this project. This project still works, but there's little reason to use it now.
+
 # vsauto
 
 `vsauto` uses [pluggy](https://github.com/pytest-dev/pluggy) to provide potentially convenient loading of [vapoursynth](https://github.com/vapoursynth/vapoursynth) plugins distributed as part of python packages.
